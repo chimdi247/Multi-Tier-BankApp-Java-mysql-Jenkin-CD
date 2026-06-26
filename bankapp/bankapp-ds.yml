@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
       - name: bankapp
-        image: chimdi247/bankapp:v2
+        image: chimdi247/bankapp:v6
         ports:
         - containerPort: 8080
         env:
